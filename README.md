@@ -77,7 +77,7 @@ comment: Коментар (string)
 
 Клонирайте хранилището:
 
-git clone https://github.com/PetyaHristo/onlineBookstore.git
+git clone https://github.com/PetyaHristo/mongodb-bookstore
 cd onlineBookstore
 
 Стартирайте MongoDB, ако още не е стартиран:
