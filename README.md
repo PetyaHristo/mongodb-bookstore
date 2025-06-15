@@ -92,4 +92,4 @@ mongosh < insert.js
 
 mongosh < queries.js
 
-Проектът е подходящ за обучение, демонстриране на CRUD операции и работа с MongoDB Aggregation Framework.
+Проектът е подходящ за обучение, демонстриране на CRUD операции и работа с MongoDB.
